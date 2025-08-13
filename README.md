@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.example.com">🔗 Link of project 💻</a>
+  <a href="https://links-my.netlify.app/">🔗 Link of project 💻</a>
 </p>
 
 # technologies
